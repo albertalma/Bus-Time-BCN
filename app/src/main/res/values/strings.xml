@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bus Time BCN</string>
+
+    <!-- Empty ListView -->
+    <string name="no_stop">You haven\'t got any stop!</string>
+    <string name="add_new_stop">Add one clicking on +</string>
+
+    <!-- Buttons -->
+    <string name="search_button">Search</string>
+    <string name="save_button">Save</string>
+    <string name="save_stop_button">Save Stop</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!-- Url -->
+    <string name="url_bus">http://www.ambmobilitat.cat/AMBtempsbus?codi=%s</string>
+
+    <!-- Action Bar -->
+    <string name="action_search">Search</string>
+    <string name="action_new">New Stop</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="search_hint">Search Bus Stop</string>
+
+    <!-- Save Codes -->
+    <string name="add_name">Stop Name</string>
+    <string name="add_code">Stop Code</string>
+
+    <!-- Dialog -->
+
+    <string name="delete_code">Delete this stop?</string>
+    <string name="accept">Yes</string>
+     <string name="ok">Ok</string>
+    <string name="cancel">No</string>
+    <string name="error_number">Error</string>
+    <string name="only_number">Stop code is composed only for numbers</string>
+
+    <!-- Toast -->
+    <string name="emptyName">The name field is empty</string>
+    <string name="emptyCode">The code field is empty</string>
+    <string name="empty">The codi couldn\'t be empty</string>
+
+    <!-- DiplayActivity -->
+    <string name="stopNumber">Stop number: </string>
+    <string name="imminent">imminent </string>
+    <string name="error">Problem loading stop information</string>
+    <string name="network_error">No Internet Connection Available</string>
+
+</resources>

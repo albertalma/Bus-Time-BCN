@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tiempo Bus BCN</string>
+
+    <!-- Empty ListView -->
+    <string name="no_stop">Aún no tienes ninguna parada!</string>
+    <string name="add_new_stop">Añade una pulsando +</string>
+
+    <!-- Buttons -->
+    <string name="search_button">Buscar</string>
+    <string name="save_button">Guardar</string>
+    <string name="save_stop_button">Guardar Parada</string>
+    <string name="cancel_button">Cancelar</string>
+
+    <!-- Url -->
+    <string name="url_bus">http://www.ambmobilitat.cat/AMBtempsbus?codi=%s</string>
+    <string name="url_bus_short">http://www.ambmobilitat.cat/AMBtempsbus</string>
+
+    <!-- Action Bar -->
+    <string name="action_search">Buscar</string>
+    <string name="action_new">Nueva Parada</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="search_hint">Buscar Paradas de autobus</string>
+
+    <!-- Save Codes -->
+    <string name="add_name">Nombre de la parada</string>
+    <string name="add_code">Codigo de la parada</string>
+
+    <!-- Dialog -->
+
+    <string name="delete_code">Eliminar esta parada?</string>
+    <string name="accept">Si</string>
+    <string name="cancel">No</string>
+    <string name="only_number">Los códigos de las paradas solo contienen números</string>
+
+    <!-- Toast -->
+    <string name="emptyName">El nombre esta vacio</string>
+    <string name="emptyCode">El codigo de la parada esta vacio</string>
+    <string name="empty">El codigo de la parada no puede estar en blanco</string>
+
+    <!-- DiplayActivity -->
+    <string name="stopNumber">Número de parada: </string>
+    <string name="imminent">inminente </string>
+    <string name="error">Error al cargar la información de la parada</string>
+    <string name="network_error">Error en la conexión</string>
+
+</resources>

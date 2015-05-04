@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temps Bus BCN</string>
+
+    <!-- Empty ListView -->
+    <string name="no_stop">Encara no tens cap parada!</string>
+    <string name="add_new_stop">Afegeix una pitjant al +</string>
+
+    <!-- Buttons -->
+    <string name="search_button">Buscar</string>
+    <string name="save_button">Guardar</string>
+    <string name="save_stop_button">Guardar Parada</string>
+    <string name="cancel_button">Cancel·lar</string>
+
+    <!-- Url -->
+    <string name="url_bus">http://www.ambmobilitat.cat/AMBtempsbus?codi=%s</string>
+
+    <!-- Action Bar -->
+    <string name="action_search">Buscar</string>
+    <string name="action_new">Nova Parada</string>
+    <string name="action_refresh">Actualitza</string>
+    <string name="search_hint">Buscar Parades d\'autobus</string>
+
+    <!-- Save Codes -->
+    <string name="add_name">Nom de la parada</string>
+    <string name="add_code">Codi de la parada</string>
+
+    <!-- Dialog -->
+
+    <string name="delete_code">Esborrar aquesta parada?</string>
+    <string name="accept">Si</string>
+    <string name="cancel">No</string>
+    <string name="only_number">Els codis de les parades nomes contenen números</string>
+
+    <!-- Toast -->
+    <string name="emptyName">El nom de la parada esta buit</string>
+    <string name="emptyCode">El codi de la parada esta buit</string>
+    <string name="empty">El codi de la parada no pot estar buit</string>
+
+    <!-- DiplayActivity -->
+    <string name="stopNumber">Número de parada: </string>
+    <string name="imminent">imminent </string>
+    <string name="error">Error al carregar l\'informació de la parada</string>
+    <string name="network_error">Error en la conexió</string>
+
+</resources>
